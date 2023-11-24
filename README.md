@@ -1,1 +1,2 @@
-# Portf-lio
+# Meu primeiro Portfolio
+Feito com ajuda das aula do SENAI Maracanã e do prof. Nivaldo.
